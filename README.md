@@ -1,4 +1,5 @@
-# OPACSW
+# THCWS
+### Tools to help create web site.
 #### Outils pour l'aide à la création de sites web.
 ***
 
@@ -21,3 +22,4 @@ Résumé rapide des outils disponibles. Pour plus de détails rendez vous dans l
     Sécurise les formulaire avec l'utilisation de champs préalablement créer.
 
 * ### Configuration Dashboard
+  * Disponible grahiquement et en lignes de commandes, configuration dashboard permet de configurer de développer un site rapidement. Il permet, par exemple, de créer une nouvelle page et de rentrer automatique le chemin de celle ci dans l'outil path.
